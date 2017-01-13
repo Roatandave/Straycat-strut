@@ -6,3 +6,5 @@ package.
 
 NethunterOS ==>ROM<== based on cyanogenmod 14.1 [android 7 nougat] is being worked on.
 This is not the install package but a full version android rom.
+
+All credit goes to the developers of Nethunter, This was built from the source code from Binkybear.
